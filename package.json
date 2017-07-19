@@ -2,15 +2,21 @@
   "name": "project-holmes",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server/app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jimmyliao/project-holmes.git"
   },
-  "author": "Jimmy Liao <sjliao@tw.ibm.com>",
+  "author": "Jimmy Liao <taiwan.jimmyliao@gmail.com>",
+  "dependencies": {
+    "node-red": "^0.16.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jimmyliao/project-holmes/issues"
