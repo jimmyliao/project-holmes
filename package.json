@@ -1,0 +1,19 @@
+{
+  "name": "project-holmes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyliao/project-holmes.git"
+  },
+  "author": "Jimmy Liao <sjliao@tw.ibm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmyliao/project-holmes/issues"
+  },
+  "homepage": "https://github.com/jimmyliao/project-holmes#readme"
+}
